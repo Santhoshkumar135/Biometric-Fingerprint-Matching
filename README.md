@@ -18,9 +18,7 @@ Make sure you have the following dependencies installed:
 
 1. FingerPrint dataset:
       https://github.com/robertvazan/fingerprint-datasets/blob/master/README.md
-Certainly! Here's an overview you can add to your README file on GitHub:
 
----
 
 # Fingerprint Matching using SIFT Algorithm
 
